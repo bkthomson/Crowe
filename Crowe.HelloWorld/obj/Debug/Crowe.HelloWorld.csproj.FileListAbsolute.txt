@@ -1,0 +1,5 @@
+C:\Users\Brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Crowe.HelloWorld\bin\Debug\Crowe.HelloWorld.dll.config
+C:\Users\Brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Crowe.HelloWorld\bin\Debug\Crowe.HelloWorld.dll
+C:\Users\Brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Crowe.HelloWorld\bin\Debug\Crowe.HelloWorld.pdb
+C:\Users\Brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Crowe.HelloWorld\obj\Debug\Crowe.HelloWorld.dll
+C:\Users\Brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Crowe.HelloWorld\obj\Debug\Crowe.HelloWorld.pdb

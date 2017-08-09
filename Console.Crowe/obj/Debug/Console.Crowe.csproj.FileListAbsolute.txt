@@ -1,0 +1,9 @@
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Crowe.HelloWorld.dll.config
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Console.Crowe.exe.config
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Console.Crowe.exe
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Console.Crowe.pdb
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Crowe.HelloWorld.dll
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\bin\Debug\Crowe.HelloWorld.pdb
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\obj\Debug\Console.Crowe.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\obj\Debug\Console.Crowe.exe
+c:\users\brad\documents\visual studio 2015\Projects\Crowe.HelloWorld.Sol\Console.Crowe\obj\Debug\Console.Crowe.pdb
